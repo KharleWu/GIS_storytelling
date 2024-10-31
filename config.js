@@ -24,7 +24,7 @@ var config = {
             description: 'Happy Halloween',
             location: {
                 center: [-73.9641, 40.6912],
-                zoom: 12,
+                zoom: 10,
                 pitch: 0,
                 bearing: 0
             },
