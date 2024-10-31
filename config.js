@@ -24,8 +24,8 @@ var config = {
             description: 'Happy Halloween',
             location: {
                 center: [-73.9641, 40.6912],
-                zoom: 19,
-                pitch: 60,
+                zoom: 12,
+                pitch: 0,
                 bearing: 0
             },
             mapAnimation: 'flyTo',
