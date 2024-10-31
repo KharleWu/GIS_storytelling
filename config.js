@@ -16,7 +16,7 @@ var config = {
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
-            id: 'slug-style-id',
+            id: 'name1',
             alignment: 'left',
             hidden: false,
             title: 'Hi, it is 10/31/2024',
